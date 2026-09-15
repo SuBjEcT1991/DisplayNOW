@@ -4,6 +4,8 @@
 
 DisplayNOW is a native macOS utility that lets one Mac send a display workspace to another Mac on the same local network.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/773b1202-3347-42e7-9984-e4827feadc72" />
+
 <img width="1600" height="900" alt="displaynow-hero" src="https://github.com/user-attachments/assets/09304021-0748-4fcb-97f6-c1875bc820b3" />
 
 ## Display modes

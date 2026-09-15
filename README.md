@@ -4,7 +4,7 @@
 
 DisplayNOW is a native macOS utility that lets one Mac send a display workspace to another Mac on the same local network.
 
-![DisplayNOW connected](docs/images/displaynow-hero.jpg)
+<img width="1600" height="900" alt="displaynow-hero" src="https://github.com/user-attachments/assets/09304021-0748-4fcb-97f6-c1875bc820b3" />
 
 ## Display modes
 
@@ -26,16 +26,16 @@ If you encounter a problem, please open an issue and include the Host Mac, Recei
 
 | Ready to connect | Connected |
 |---|---|
-| ![Available Mac](docs/images/available-mac.jpg) | ![Connected overview](docs/images/connected-overview.jpg) |
+| <img width="1510" height="1308" alt="available-mac" src="https://github.com/user-attachments/assets/39570ece-3fe1-4ba5-8965-62d6264a778f" /> | <img width="1514" height="1298" alt="connected-overview" src="https://github.com/user-attachments/assets/45a618eb-200a-44d7-ae67-e729384b0c69" /> |
 
 ### Visual Display Manager
-![Display layout](docs/images/display-layout.jpg)
+<img width="1528" height="1320" alt="display-layout" src="https://github.com/user-attachments/assets/1e8157c2-bb1d-44a1-a1f1-52054d1e2ece" />
 
 ### Four display modes
-![Display modes](docs/images/display-modes.jpg)
+<img width="1508" height="1302" alt="display-modes" src="https://github.com/user-attachments/assets/ed4e0a92-3f3f-4b0d-970b-1b67b4d4a726" />
 
 ### Settings
-![Settings](docs/images/settings.jpg)
+<img width="1518" height="1314" alt="settings" src="https://github.com/user-attachments/assets/8195f49d-31fb-4912-b63a-2c89554618a0" />
 
 ## Download
 

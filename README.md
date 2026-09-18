@@ -18,7 +18,7 @@ DisplayNOW is a native macOS utility that lets one Mac send a display workspace 
 - **Visual display layout** — arrange connected Macs from DisplayNOW's display manager.
 - **Wi-Fi / Ethernet / Thunderbolt networking** — DisplayNOW uses the network path available between the Macs.
 
-## 1.0 Beta 1
+## 1.0 Beta 4
 
 This is a **beta release**. The core DisplayNOW modes are working on the developer's tested hardware, but compatibility and long-duration reliability are still being tested across more Mac models and macOS configurations.
 
@@ -110,4 +110,4 @@ No open-source licence has been selected for this repository yet. Unless a licen
 
 ## Beta notice
 
-DisplayNOW 1.0 Beta 1 is pre-release software. Features, compatibility and pricing may change before the stable 1.0 release.
+DisplayNOW 1.0 Beta 4 is pre-release software. Features, compatibility and pricing may change before the stable 1.0 release.
